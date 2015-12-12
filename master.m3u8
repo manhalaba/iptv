@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="DESPORTO",SPORT TV AMERICAS [POR]
+http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV 1 HD",SPORTV 1 HD
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/14.ts
+
+#EXTINF:-1, Sport.TV 2 HD
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/203.ch
+#EXTINF:-1, Sport Tv 3 HD
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/204.ch
+
+#EXTINF:-1,Sport Tv 2 SD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
+#EXTINF:-1 ,Sport Tv 3 SD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV 4 HD",SPORTV 4 HD
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/19.ts
+
+#EXTINF:-1 tvg-id="SPORTV 5 HD",SPORTV 5 HD
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/21.ts
+
+#EXTINF:-1 tvg-id="BENFICA 1HD",BENFICA TV 1 HD
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/22.ts
