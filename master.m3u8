@@ -19,9 +19,6 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/19.ts
 
 #EXTINF:-1 tvg-id="SPORTV 5 HD",SPORTV 5 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/21.ts
-
-#EXTINF:-1 tvg-id="SPORTV 5 HD",SPORTV 5 HD
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/206.ts
 
 #EXTINF:-1 tvg-id="BENFICA 1HD",BENFICA TV 1 HD
