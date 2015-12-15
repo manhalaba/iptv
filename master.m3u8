@@ -20,6 +20,9 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 #EXTINF:-1 tvg-id="BENFICA 1HD" tvg-logo="http://canaisdetv.net/wp-content/uploads/2012/02/benfica_tv.png",BENFICA TV 1 HD
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/22.ts
 
+#EXTINF:-1 tvg-id="BENFICA 1HD" tvg-logo="http://canaisdetv.net/wp-content/uploads/2012/02/benfica_tv.png",BENFICA TV 1 HD (Stream 2)
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/SLB2.png", BTV 2
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/213.st
 
