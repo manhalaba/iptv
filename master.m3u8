@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,############# PORTUGAL DESPORTO ##########
-
 #EXTINF:-1 group-title="DESPORTO" tvg-logo="http://www.sporttv.pt/img/logo-americas.png",SPORT TV AMERICAS [POR]
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
@@ -37,14 +35,11 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
 #EXTINF:-1 ,Sport Tv 3 SD
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
 
-#EXTINF:-1,############# UK ##########
 #EXTINF:-1, SKY SPORTS 1 HD
 http://playkodi.info/redmira.php?riconta=1762530387&f=.m3u8
 
 #EXTINF:-1, Sky Sports 3
 http://playkodi.info/redmira.php?riconta=-44924076&f=.m3u8
-
-#EXTINF:-1,############# BEIN SPORTS ##########
 
 #EXTINF:-1,FULL-HD: BEIN SPORTS 1 HD
 http://46.101.246.69:8000/live/skype:/ramyon.messi/532.ts
