@@ -30,7 +30,5 @@ http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
 #EXTINF:-1 ,Sport Tv 3 SD
 http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
 
-#EXTINF:-1, SPORT TV 1 (Private)
-http://5.135.155.209:8081
-#EXTINF:-1, SPORT TV 2 (Private)
-http://5.135.155.209:8082
+#EXTINF:-1, (Private)
+http://5.135.155.209:8080
