@@ -1,20 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/14.ts
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1 HD (2)
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.ts
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png", Sport.TV 2 HD
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/203.ch
+http://portal.rapidiptv.com:8080/live/Maki/maki/3222.ts
 
 #EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV3.png", Sport Tv 3 HD
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/204.ch
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png",SPORTV 4 HD
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/19.ts
 
+#EXTINF:-1 tvg-id="SPORTV Americas HD",SPORTV Americas HD
+http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png",SPORTV 5 HD
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/206.ts
+http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/203.ch
 
 #EXTINF:-1 tvg-id="BENFICA 1HD" tvg-logo="http://canaisdetv.net/wp-content/uploads/2012/02/benfica_tv.png",BENFICA TV 1 HD
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/22.ts
@@ -25,10 +27,27 @@ http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_a
 #EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/SLB2.png", BTV 2
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/213.st
 
-#EXTINF:-1,Sport Tv 2 SD
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
-#EXTINF:-1 ,Sport Tv 3 SD
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
-
-#EXTINF:-1, (Private)
-http://5.135.155.209:8080
+#EXTINF:-1,BT Sport 1
+http://40.113.21.146:8000/Daziptv/Streamall/115.ch
+#EXTINF:-1,BT Sport 2
+http://40.113.21.146:8000/Daziptv/Streamall/116.ch
+#EXTINF:-1,VIP: Sky Sports 1 HD
+http://40.113.21.146:8000/Daziptv/Streamall/168.ch
+#EXTINF:-1,VIP: Sky Sports 2 HD
+http://40.113.21.146:8000/Daziptv/Streamall/163.ch
+#EXTINF:-1,VIP: Sky Sports 3 HD
+http://40.113.21.146:8000/Daziptv/Streamall/164.ch
+#EXTINF:-1,VIP: Sky Sports 4 HD
+http://40.113.21.146:8000/Daziptv/Streamall/165.ch
+#EXTINF:-1,VIP: Sky Sports 5 HD
+http://40.113.21.146:8000/Daziptv/Streamall/166.ch
+#EXTINF:-1,SKY SPORTS1
+http://40.113.21.146:8000/Daziptv/Streamall/117.ch
+#EXTINF:-1,SKY SPORTS2
+http://40.113.21.146:8000/Daziptv/Streamall/118.ch
+#EXTINF:-1,SKY SPORTS3
+http://40.113.21.146:8000/Daziptv/Streamall/119.ch
+#EXTINF:-1,SKY SPORTS4
+http://40.113.21.146:8000/Daziptv/Streamall/120.ch
+#EXTINF:-1,SKY SPORTS5
+http://40.113.21.146:8000/Daziptv/Streamall/121.ch 
