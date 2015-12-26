@@ -56,5 +56,7 @@ http://40.113.21.146:8000/Daziptv/Streamall/121.ch
 
 #EXTINF:-1, Первый
 http://146.158.123.198:4022/udp/239.72.6.98:1234
-#EXTINF:-1, National Geographic RUS (поток 2)
-http://4.hls.bolshoe.tv/1/streaming/natgeo/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Еда
+http://stream.liteiptv.ru/eda
+#EXTINF:0 group-title="Развлекательные",World Fashion Россия HD
+http://stream.liteiptv.ru/wfruhd?.m3u8
