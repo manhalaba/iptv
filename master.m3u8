@@ -56,3 +56,5 @@ http://40.113.21.146:8000/Daziptv/Streamall/121.ch
 
 #EXTINF:-1, Первый
 http://146.158.123.198:4022/udp/239.72.6.98:1234
+#EXTINF:-1, National Geographic RUS (поток 1)
+http://alturl.com/zbw8j
