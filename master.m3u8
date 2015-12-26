@@ -51,3 +51,8 @@ http://40.113.21.146:8000/Daziptv/Streamall/119.ch
 http://40.113.21.146:8000/Daziptv/Streamall/120.ch
 #EXTINF:-1,SKY SPORTS5
 http://40.113.21.146:8000/Daziptv/Streamall/121.ch 
+
+
+
+#EXTINF:-1, Первый
+http://146.158.123.198:4022/udp/239.72.6.98:1234
