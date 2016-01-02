@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SPORTV Americas FHD" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV Americas FHD
+http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1 HD (2)
 http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
