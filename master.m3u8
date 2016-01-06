@@ -3,31 +3,24 @@
 http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1 HD (2)
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
+http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/28.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png", Sport.TV 2 HD
-http://portal.rapidiptv.com:8080/live/Maki/maki/3222.ts
+http://skyiptv.ddns.net:8000/live/unit1315/6521878/415.m3u8
 
 #EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV3.png", Sport Tv 3 HD
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/30.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png",SPORTV 4 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/19.ts
-
-#EXTINF:-1 tvg-id="SPORTV Americas HD",SPORTV Americas HD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/31.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png",SPORTV 5 HD
-http://62.210.248.96:11000/pereiraandrew17@hotmail.com_port/pereiraandrew17@hotmail.com_port/203.ch
+http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/32.m3u8
 
-#EXTINF:-1 tvg-id="BENFICA 1HD" tvg-logo="http://canaisdetv.net/wp-content/uploads/2012/02/benfica_tv.png",BENFICA TV 1 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/22.ts
-
-#EXTINF:-1 tvg-id="BENFICA 1HD" tvg-logo="http://canaisdetv.net/wp-content/uploads/2012/02/benfica_tv.png",BENFICA TV 1 HD (Stream 2)
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/SLB2.png", BTV 2
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/213.st
+#EXTINF:0,108 BENFICA TV 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/33.m3u8
+#EXTINF:0,109 BENFICA TV 2 HD
+http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/253.m3u8
 
 #EXTINF:-1,BT Sport 1
 http://40.113.21.146:8000/Daziptv/Streamall/115.ch
