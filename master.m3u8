@@ -1,53 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SPORTV Americas FHD" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV Americas FHD
-http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+#EXTINF:-1 tvg-id="ABOLATV.pt" tvg-logo="a_bola_tv_pt.png" group-title="DESPORTO",[COLOR orange][I][B]A BOLA TV[/B][/I][/COLOR]  NEW 
+http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8
+#EXTINF:-1 tvg-id="ABOLATV.pt" tvg-logo="a_bola_tv_pt.png" group-title="DESPORTO",[COLOR orange][I][B]A BOLA TV[/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/20.ts
+#EXTINF:-1 tvg-id="ABOLATV.pt" tvg-logo="a_bola_tv_pt.png" group-title="DESPORTO",[COLOR orange][I][B]A BOLA TV[/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/20.ts
 
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1 HD (2)
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/28.m3u8
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png", Sport.TV 2 HD
-http://skyiptv.ddns.net:8000/live/unit1315/6521878/415.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]  NEW 
+http://hyper.de1-eu.com:8000/live/saeid/saeid/641.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/24.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/24.ts
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png", Sport.TV 2 HD
-http://tv.kitboxtv.com:8000/live/Wedsdrff/Hgtdbdjjf999/281.ts
-#EXTINF:-1, Porto vs Rio Ave
-http://tv.kitboxtv.com:8000/live/Wedsdrff/Hgtdbdjjf999/8.ts
 
-#EXTINF:-1 tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV3.png", Sport Tv 3 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/30.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 [/B][/I][/COLOR]  NEW 
+http://hyper.de1-eu.com:8000/live/saeid/saeid/640.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 [/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/25.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 [/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/25.ts
 
-#EXTINF:-1 tvg-id="SPORTV 4 HD" tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png",SPORTV 4 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/31.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV 5 HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png",SPORTV 5 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/32.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]  NEW 
+http://hyper.de1-eu.com:8000/live/saeid/saeid/639.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/26.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/26.ts
 
-#EXTINF:0,108 BENFICA TV 1 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/33.m3u8
-#EXTINF:0,109 BENFICA TV 2 HD
-http://ptbrvirtual.no-ip.net:8000/live/Admin/Admin/253.m3u8
 
-#EXTINF:-1,BT Sport 1
-http://40.113.21.146:8000/Daziptv/Streamall/115.ch
-#EXTINF:-1,BT Sport 2
-http://40.113.21.146:8000/Daziptv/Streamall/116.ch
-#EXTINF:-1,VIP: Sky Sports 1 HD
-http://40.113.21.146:8000/Daziptv/Streamall/168.ch
-#EXTINF:-1,VIP: Sky Sports 2 HD
-http://40.113.21.146:8000/Daziptv/Streamall/163.ch
-#EXTINF:-1,VIP: Sky Sports 3 HD
-http://40.113.21.146:8000/Daziptv/Streamall/164.ch
-#EXTINF:-1,VIP: Sky Sports 4 HD
-http://40.113.21.146:8000/Daziptv/Streamall/165.ch
-#EXTINF:-1,VIP: Sky Sports 5 HD
-http://40.113.21.146:8000/Daziptv/Streamall/166.ch
-#EXTINF:-1,SKY SPORTS1
-http://40.113.21.146:8000/Daziptv/Streamall/117.ch
-#EXTINF:-1,SKY SPORTS2
-http://40.113.21.146:8000/Daziptv/Streamall/118.ch
-#EXTINF:-1,SKY SPORTS3
-http://40.113.21.146:8000/Daziptv/Streamall/119.ch
-#EXTINF:-1,SKY SPORTS4
-http://40.113.21.146:8000/Daziptv/Streamall/120.ch
-#EXTINF:-1,SKY SPORTS5
-http://40.113.21.146:8000/Daziptv/Streamall/121.ch
+
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]  NEW 
+http://hyper.de1-eu.com:8000/live/saeid/saeid/638.m3u8
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]
+rtmp://199.19.95.95:443/flash playpath=22172?MTQ1NDk2NzcxOTs5NzU2MWZiYTk2NzhkZDYzM2Y2MmRkYmJiN2JjY2Y1MA== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/JlZDEzNDUwYTE5MmYzOGYxNWM2YjNi/c3BvcnQ1OmVjNjM1Y2E2MWM4OGYwMDU5NmI4MTA1NDk2NmMxNTEwOjgzMTNiOTVhMW
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/27.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/27.ts
+
+
+
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 [/B][/I][/COLOR]  NEW 
+http://tv.kitboxtv.com:8000/live/2qGs21VzHL/L8OitXUGwR/282.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 [/B][/I][/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/637.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 [/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/28.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 [/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/28.ts
+
+
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 HD[/B][/I][/COLOR]  NEW 
+http://hyper.de1-eu.com:8000/live/saeid/saeid/677.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 [/B][/I][/COLOR]
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 [/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/21.ts
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 [/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/21.ts
+
+
+
+#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 HD[/B][/I][/COLOR]  NEW 
+http://hyper.de1-eu.com:8000/live/saeid/saeid/676.m3u8
+#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 [/B][/I][/COLOR]
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
+#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 [/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/22.ts
+#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 [/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/22.ts
+
+
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV[/B][/I][/COLOR]
+http://hyper.de1-eu.com:8000/live/saeid/saeid/652.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV[/B][/I][/COLOR]
+http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/23.ts
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV[/B][/I][/COLOR]
+http://oh-hell-no.better-than.tv:8000/live/0zx5eS5ndd/xJ5RvU29mw/23.ts
